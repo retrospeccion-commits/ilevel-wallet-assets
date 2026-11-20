@@ -5,3 +5,4 @@ Están aquí, fuera de Cloudflare, porque el descargador de imágenes de Google 
 y las reglas de seguridad de ilevel.es lo bloquean. Solo imágenes; nada de código ni datos.
 
 - `logo.png` — logo cuadrado (512 × 512).
+- `logo-v2.png` — logo actual de la tarjeta: la palabra «ilevel» en píxel sobre fondo blanco (1024 × 1024, pensado para el recorte circular de Google).
